@@ -1,6 +1,6 @@
 {
   "name": "make-it-poll",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "带有开始，停止，和错误重试功能的轮询js库",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "轮询",
     "js"
   ],
+  "repository": "https://github.com/huangyan321/make-it-poll",
   "author": "huangyan321",
   "license": "MIT"
 }
