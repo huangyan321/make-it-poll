@@ -1,0 +1,15 @@
+{
+  "name": "make-it-poll",
+  "version": "1.4.0",
+  "description": "带有开始，停止，和错误重试功能的轮询js库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "轮询",
+    "js"
+  ],
+  "author": "huangyan321",
+  "license": "MIT"
+}
